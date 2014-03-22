@@ -1,0 +1,4 @@
+The operating system is <%= node["platform"] %>
+The total memory on the node is <%= node["memory"]["total"].to_i / 1024 %> MB
+The FQDN of the node is <%= node["fqdn"] %>
+The IP address of this node is <%= node["ipaddress"] %>
