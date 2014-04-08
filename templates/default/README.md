@@ -12,7 +12,9 @@ organizations with little to no in-house IT staff.
   Fundamentally, the dashboard provides 3 main functions;
 
  > a. Cluster and VM management
+ >
  > b. VM provisioning and removal
+ >
  > c. Media and resource management for existing VMs
 
 
@@ -47,7 +49,9 @@ VM Provisioning and Removal
 Installation media can be added to the cluster in one of three ways;
 
  > a. Create an image from a DVD or CD disc mounted in the dashboard server
+ >
  > b. Upload an ISO from the user's computer/tablet
+ >
  > c. Direct download to the cluster from a website or ftp site
 
   Once the media is on the cluster, users can use it to create a new virtual
@@ -113,6 +117,7 @@ Screenshots
 -----------
 
 ![An cdb cluster stack started](https://alteeve.ca/w/File:An-cdb-cluster-stack-started.png)
+
 ![An cdb cluster stack running](https://alteeve.ca/images/d/d7/An-cdb-cluster-stack-running.png)
 \*All screen shots shown here were taken in late July 2013\*
 
