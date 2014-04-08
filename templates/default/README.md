@@ -1,8 +1,8 @@
-AN!CDB v1.0.0
+AN!CDB v1.0.4
 =============
 
   This program is a "Cluster Dashboard" designed for simple management of
-AN!Clusters[1]. It is a simple, web-based application designed to be browser
+AN!Clusters[`1`]. It is a simple, web-based application designed to be browser
 agnostic and tablet friendly.
 
   It is designed to be used by people with little computer experience. It's
@@ -124,4 +124,4 @@ Screenshots
 Links
 -----
 
-1. - https://alteeve.ca/w/AN!Cluster_Tutorial_2
+# - https://alteeve.ca/w/AN!Cluster_Tutorial_2
