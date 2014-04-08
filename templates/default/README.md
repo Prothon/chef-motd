@@ -17,6 +17,17 @@ organizations with little to no in-house IT staff.
  >
  > c. Media and resource management for existing VMs
 
+Tables of contents
+------------------
+
+- [Online Documentation](#online-documentation)
+- [Cluster and VM Management](#cluster-and-vm-management)
+- [VM Provisioning and Removal](#vm-provisioning-and-removal)
+- [Media and Resource Management for Existing VMs](#media-and-resource-management-for-existing-vms)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Project Contributers](#project-contributers)
+- [Cluster Tutorial](#links)
 
 Online Documentation
 --------------------
@@ -123,7 +134,7 @@ Screenshots
 
 - - -
 
-Project contributers
+Project Contributers
 --------------------
 
 digmer
