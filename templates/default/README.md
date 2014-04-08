@@ -1,4 +1,4 @@
-![Alteeve's Niche!](https://alteeve.ca/c/templates/simplyalteeve/images/large/logo.png) AN!CDB v1.0.4
+AN!CDB v1.0.4 ![Alteeve's Niche!](https://alteeve.ca/c/templates/simplyalteeve/images/large/logo.png)
 =============
 
   This program is a "Cluster Dashboard" designed for simple management of
