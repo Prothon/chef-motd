@@ -27,7 +27,7 @@ Tables of contents
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Project Contributers](#project-contributers)
-- [Cluster Tutorial](#links)
+- [Cluster Tutorial](#cluster-tutorial)
 
 Online Documentation
 --------------------
@@ -139,7 +139,7 @@ Project Contributers
 
 digmer
 
-Links
------
+Cluster Tutorial
+----------------
 
 - https://alteeve.ca/w/AN!Cluster_Tutorial_2
