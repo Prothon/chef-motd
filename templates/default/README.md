@@ -2,7 +2,7 @@ AN!CDB v1.0.4
 =============
 
   This program is a "Cluster Dashboard" designed for simple management of
-AN!Clusters[`1`]. It is a simple, web-based application designed to be browser
+AN!Clusters[1]. It is a simple, web-based application designed to be browser
 agnostic and tablet friendly.
 
   It is designed to be used by people with little computer experience. It's
@@ -121,7 +121,12 @@ Screenshots
 ![An cdb cluster stack running](https://alteeve.ca/images/d/d7/An-cdb-cluster-stack-running.png)
 \*All screen shots shown here were taken in late July 2013\*
 
+Project contributers
+--------------------
+
+@digmer
+
 Links
 -----
 
-# - https://alteeve.ca/w/AN!Cluster_Tutorial_2
+- https://alteeve.ca/w/AN!Cluster_Tutorial_2
