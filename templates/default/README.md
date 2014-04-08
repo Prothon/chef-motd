@@ -1,7 +1,7 @@
 AN!CDB v1.0.4
 =============
 
-[Alteeve's Niche!](https://alteeve.ca/c/templates/simplyalteeve/images/large/logo.png)
+![Alteeve's Niche!](https://alteeve.ca/c/templates/simplyalteeve/images/large/logo.png)
 
   This program is a "Cluster Dashboard" designed for simple management of
 AN!Clusters[[1](#links)]. It is a simple, web-based application designed to be browser
