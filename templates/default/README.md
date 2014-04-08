@@ -99,7 +99,7 @@ work fine.
 
 Failover Domain Names:
 
-  The failover domains used for the VM resource must have matching 'nXX'
+  The failover domains used for the VM resource must have matching `nXX`
 suffixes. Continuing the earlier example, the FOD names `primary_n01` and
 `primary_n02` would be good.
 
@@ -116,7 +116,7 @@ domains to the preferred host for a given VM.
 Screenshots
 -----------
 
-![An cdb cluster stack started](https://alteeve.ca/w/File:An-cdb-cluster-stack-started.png)
+![An cdb cluster stack started](https://alteeve.ca/images/c/cb/An-cdb-cluster-stack-started.png)
 
 ![An cdb cluster stack running](https://alteeve.ca/images/d/d7/An-cdb-cluster-stack-running.png)
 \*All screen shots shown here were taken in late July 2013\*
