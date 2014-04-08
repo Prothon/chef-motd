@@ -2,7 +2,7 @@ AN!CDB v1.0.4
 =============
 
   This program is a "Cluster Dashboard" designed for simple management of
-AN!Clusters[1]. It is a simple, web-based application designed to be browser
+AN!Clusters[[1](#links)]. It is a simple, web-based application designed to be browser
 agnostic and tablet friendly.
 
   It is designed to be used by people with little computer experience. It's
